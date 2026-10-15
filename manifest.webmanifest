@@ -1,0 +1,36 @@
+{
+  "name": "Asset Management - Stock Opname",
+  "short_name": "Asset Management",
+  "description": "Aplikasi verifikasi aset, dashboard SO, grafik interaktif, report, dan Manual Book.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait-primary",
+  "background_color": "#071b15",
+  "theme_color": "#075d4e",
+  "lang": "id-ID",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
